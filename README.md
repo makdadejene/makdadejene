@@ -1,4 +1,4 @@
-![Profile Picture](images/professional.jpg)
+![Profile Picture](images/professional.JPG)
 
 # Makda Dejene
 
